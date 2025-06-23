@@ -1,5 +1,9 @@
 4 apples
 2 cups sugar
 3 tablespoons butter
+<<<<<<< HEAD
 1 teaspoon cinnamon
+=======
+Dash cardamom
+>>>>>>> david-test
 Vibrant squeeze of lemon
